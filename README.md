@@ -56,14 +56,6 @@ I'm software developer passionate about creating innovative solutions for people
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
 </div>
-
-
-<br/>  
-
-
-## Connect with me :
- 
-</div>  
   
 
 <br/>  
