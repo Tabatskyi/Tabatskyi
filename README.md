@@ -78,7 +78,7 @@ I'm software developer passionate about creating innovative solutions for people
   <tr></tr>
   <tr>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tabatskyi&theme=github_dark&hide_border=true&short_numbers=false&date_format=&mode=daily&exclude_days=&sections=total%2Ccurrent%2Clongest&card_width=495&card_height=195&type=svg&background-type=solid&properties=background" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tabatskyi&theme=github_dark&hide_border=true&short_numbers=false&date_format=&mode=daily&exclude_days=&sections=total%2Ccurrent%2Clongest&stroke=67a5f8&dates=67a5f8&ring=67a5f8&card_width=495&card_height=195&type=svg&background-type=solid&properties=background" />
     </td>
   </tr>
 </table>
