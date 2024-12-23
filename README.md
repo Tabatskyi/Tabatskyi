@@ -66,19 +66,19 @@ I'm software developer passionate about creating innovative solutions for people
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Tabatskyi&show_icons=true&count_private=true&hide_border=true&card_width=495&theme=transparent" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Tabatskyi&show_icons=true&count_private=true&hide_border=true&card_width=495&theme=github_dark" />
     </td>
   </tr>
   <tr></tr>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tabatskyi&hide_border=true&layout=compact&card_width=495&theme=transparent&langs_count=10"/>   
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tabatskyi&hide_border=true&layout=compact&card_width=495&theme=github_dark&langs_count=10"/>   
     </td>
   </tr>
   <tr></tr>
   <tr>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tabatskyi&theme=transparent&hide_border=true&short_numbers=false&date_format=&mode=daily&exclude_days=&sections=total%2Ccurrent%2Clongest&card_width=495&card_height=195&type=svg&background-type=solid&properties=background" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tabatskyi&theme=github_dark&hide_border=true&short_numbers=false&date_format=&mode=daily&exclude_days=&sections=total%2Ccurrent%2Clongest&card_width=495&card_height=195&type=svg&background-type=solid&properties=background" />
     </td>
   </tr>
 </table>
