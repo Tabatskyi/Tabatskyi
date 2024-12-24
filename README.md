@@ -6,7 +6,7 @@
 
 ### My Bio:
 
-I'm software developer passionate about creating innovative solutions for people. I started my journey with some Python courses and Paskal in High School. Currently I'm studying in [KSE](https://university.kse.ua/en) University at the “Software Engineering and Business Analysis” program.
+I'm software developer passionate about creating innovative solutions for people. I started my journey with some Python courses and Paskal in High School. Currently I'm studying in [KSE University](https://university.kse.ua/en) at the “Software Engineering and Business Analysis” program.
 
 #### Contact me:
 <a href="https://github.com/Tabatskyi" target="_blank">
