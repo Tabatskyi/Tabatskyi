@@ -1,8 +1,4 @@
-### <div align="center"></div>  
-  
-# Hi there, my name is Mark!
-
-
+  # Hi there, my name is Mark!
 
 ### My Bio:
 
@@ -66,19 +62,25 @@ I'm a software developer passionate about creating innovative solutions for peop
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Tabatskyi&show_icons=true&count_private=true&hide_border=true&card_width=495&theme=github_dark" />
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=Tabatskyi&show_icons=true&count_private=true&hide_border=true&card_width=495&theme=github_dark" alt=GeneralStats/>
+      </a>
+    </td>
+  </tr>
+  <tr></tr> 
+  <tr>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tabatskyi&hide_border=true&layout=compact&card_width=495&theme=github_dark&langs_count=10" alt=TopLangs/>   
+      </a>
     </td>
   </tr>
   <tr></tr>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tabatskyi&hide_border=true&layout=compact&card_width=495&theme=github_dark&langs_count=10"/>   
-    </td>
-  </tr>
-  <tr></tr>
-  <tr>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tabatskyi&theme=github_dark&hide_border=true&short_numbers=false&date_format=&mode=daily&exclude_days=&sections=total%2Ccurrent%2Clongest&stroke=67a5f8&dates=67a5f8&ring=67a5f8&card_width=495&card_height=195&type=svg&background-type=solid&properties=background" />
+      <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+        <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Tabatskyi&theme=github_dark&hide_border=true&mode=daily&sections=total%2Ccurrent%2Clongest&stroke=67a5f8&dates=67a5f8&ring=67a5f8" alt=StreakStats/>
+      </a>
     </td>
   </tr>
 </table>
