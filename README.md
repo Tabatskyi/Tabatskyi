@@ -108,7 +108,7 @@ I'm a software developer passionate about creating innovative solutions for peop
   <tr>
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=Tabatskyi&show_icons=true&count_private=true&hide_border=true&card_width=495&theme=github_dark" alt=GeneralStats/>
+        <img src="https://github-readme-stats.vercel.app/api?username=Tabatskyi&show_icons=true&count_private=true&hide_border=true&card_width=495&theme=github_dark" width="495" height="200" alt=GeneralStats/>
       </a>
     </td>
   </tr>
@@ -116,7 +116,7 @@ I'm a software developer passionate about creating innovative solutions for peop
   <tr>
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tabatskyi&hide_border=true&layout=compact&card_width=495&theme=github_dark&langs_count=10" alt=TopLangs/>   
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tabatskyi&hide_border=true&layout=compact&card_width=495&theme=github_dark&langs_count=10" width="495" height="200" alt=TopLangs/>   
       </a>
     </td>
   </tr>
@@ -124,7 +124,7 @@ I'm a software developer passionate about creating innovative solutions for peop
   <tr>
     <td>
       <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-        <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Tabatskyi&theme=github_dark&hide_border=true&mode=daily&sections=total%2Ccurrent%2Clongest&stroke=67a5f8&dates=67a5f8&ring=67a5f8" alt=StreakStats/>
+        <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Tabatskyi&theme=github_dark&hide_border=true&mode=daily&sections=total%2Ccurrent%2Clongest&stroke=67a5f8&dates=67a5f8&ring=67a5f8" width="495" height="200" alt=StreakStats/>
       </a>
     </td>
   </tr>
@@ -132,7 +132,7 @@ I'm a software developer passionate about creating innovative solutions for peop
   <tr>
     <td>
       <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app?username=Tabatskyi&theme=darkhub&column=3&margin-w=1&margin-h=6&no-bg=false&no-frame=true&title=-Stars,-Reviews,-Issues,-Followers,-Experience,-PullRequest" width="495" alt="trophy graph"  />
+        <img src="https://github-profile-trophy.vercel.app?username=Tabatskyi&theme=darkhub&column=3&margin-w=1&margin-h=6&no-bg=false&no-frame=true&title=-Stars,-Reviews,-Issues,-Followers,-Experience,-PullRequest" width="495" height="200" alt="trophy graph"  />
       </a>
     </td>
   </tr>
