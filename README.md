@@ -143,7 +143,9 @@ I'm a software developer passionate about creating innovative solutions for peop
   <tr></tr>
   <tr>
     <td>
-      <img src="https://github-profile-trophy.vercel.app?username=Tabatskyi&theme=darkhub&column=3&margin-w=1&margin-h=6&no-bg=false&no-frame=true&title=-Stars,-Reviews,-Issues,-Followers,-Experience,-PullRequest" width="495" alt="trophy graph"  />
+      <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app?username=Tabatskyi&theme=darkhub&column=3&margin-w=1&margin-h=6&no-bg=false&no-frame=true&title=-Stars,-Reviews,-Issues,-Followers,-Experience,-PullRequest" width="495" alt="trophy graph"  />
+      </a>
     </td>
   </tr>
 </table>
