@@ -31,7 +31,7 @@ I'm a software developer passionate about creating innovative solutions for peop
   <img width="12" />
   <a href="https://go.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  /></a>
   <img width="12" />
-  <a href="https://www.javascript.com/"><img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  /></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="typescript logo"  /></a>
   <img width="12" />
   <a href="https://www.w3schools.com/html/"><img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  /></a>
   <img width="12" />
