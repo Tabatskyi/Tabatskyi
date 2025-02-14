@@ -45,7 +45,7 @@ I'm a software developer passionate about creating innovative solutions for peop
 ###
 
 <div align="center">
-  <a href="https://dotnet.microsoft.com/download/dotnet-framework"><img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  /></a>
+  <a href="https://dotnet.microsoft.com/"><img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  /></a>
   <img width="12" />
   <a href="https://nodejs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  /></a>
   <img width="12" />
