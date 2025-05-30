@@ -68,6 +68,9 @@ I'm a software developer passionate about creating innovative solutions for peop
   <a href="https://www.postgresql.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  /></a>
   <img width="5" />   
   <img width="5" />
+  <a href="https://www.microsoft.com/sql-server/sql-server-downloads"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="40" alt="sqlserver logo"  /></a>
+  <img width="5" />   
+  <img width="5" />
   <a href="https://www.mysql.com/"><img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  /></a>
   <img width="5" />  
   <img width="5" />
@@ -87,14 +90,14 @@ I'm a software developer passionate about creating innovative solutions for peop
   <img width="5" /> 
   <img width="5" />
   <a href="https://grafana.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo"  /></a>
-  <img width="5" />  
-  <img width="5" />
-  <a href="https://www.jenkins.io/"><img src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="40" /></a>
 </div>
 
 ###
 
 <div align="center">
+  <a href="https://www.jenkins.io/"><img src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="40" /></a>
+  <img width="5" />  
+  <img width="5" />
   <a href="https://www.linux.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  /></a>
   <img width="5" />  
   <img width="5" />
@@ -124,9 +127,6 @@ I'm a software developer passionate about creating innovative solutions for peop
   <img width="5" />
   <a href="https://developer.apple.com/xcode/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="40" alt="xcode logo"  /></a>
   <img width="5" />  
-  <img width="5" />
-  <a href="https://www.markdownguide.org/"><img src="https://skillicons.dev/icons?i=md" height="40" alt="markdown logo"  /></a>
-  <img width="5" /> 
   <img width="5" />
   <a href="https://www.latex-project.org/"><img src="https://skillicons.dev/icons?i=latex" height="40" alt="latex logo"  /></a>
 </div>
