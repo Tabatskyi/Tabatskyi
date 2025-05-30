@@ -62,7 +62,7 @@ I'm a software developer passionate about creating innovative solutions for peop
   <a href="https://nodejs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  /></a>
   <img width="5" />   
   <img width="5" />
-  <a href="https://cmake.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="40" alt="cmake logo"  /></a>
+  <a href="https://redis.io/"><img src="https://cdn.simpleicons.org/redis/DC382D" height="40" alt="redis logo"  /></a>
   <img width="5" />  
   <img width="5" />
   <a href="https://www.postgresql.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  /></a>
