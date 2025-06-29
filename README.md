@@ -2,7 +2,7 @@
 
 ### My Bio:
 
-I'm a software developer passionate about creating innovative solutions for people. I started my journey with some Python courses and Pascal in High School. Currently, I'm studying at [KSE University](https://university.kse.ua/en) in the “Software Engineering and Business Analysis” program.
+I'm a software developer passionate about creating innovative solutions that enhance people's lives. I started my journey with some Python courses and Pascal in High School. Currently, I'm studying at [KSE University](https://university.kse.ua/en) in the “Software Engineering and Business Analysis” program.
 
 #### Contact me:
 <a href="https://github.com/Tabatskyi" target="_blank">
@@ -149,7 +149,7 @@ I'm a software developer passionate about creating innovative solutions for peop
   <tr>
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tabatskyi&hide_border=true&layout=compact&card_width=495&theme=github_dark&langs_count=10" width="495" height="200" alt="Top Langs"/>   
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tabatskyi&hide_border=true&layout=compact&card_width=495&theme=github_dark&langs_count=10&size_weight=0.5&count_weight=0.5" width="495" height="200" alt="Top Langs"/>   
       </a>
     </td>
   </tr>
