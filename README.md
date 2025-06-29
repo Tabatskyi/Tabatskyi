@@ -141,7 +141,7 @@ I'm a software developer passionate about creating innovative solutions that enh
   <tr>
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=Tabatskyi&show_icons=true&count_private=true&hide_border=true&card_width=495&theme=github_dark" width="495" height="200" alt="General Stats"/>
+        <img src="https://github-readme-stats-git-main-tabatskyis-projects.vercel.app/api?username=Tabatskyi&show_icons=true&count_private=true&hide_border=true&card_height=400&theme=github_dark&hide=stars&show=reviews,prs_merged,prs_merged_percentage&include_all_commits=true" width="695" height="400" alt="General Stats"/>
       </a>
     </td>
   </tr>
@@ -149,7 +149,7 @@ I'm a software developer passionate about creating innovative solutions that enh
   <tr>
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tabatskyi&hide_border=true&layout=compact&card_width=495&theme=github_dark&langs_count=10&size_weight=0.5&count_weight=0.5" width="495" height="200" alt="Top Langs"/>   
+        <img src="https://github-readme-stats-git-main-tabatskyis-projects.vercel.app/api/top-langs/?username=Tabatskyi&hide_border=true&layout=compact&theme=github_dark&langs_count=20&size_weight=0.5&count_weight=0.5&card_width=500&card_height=400" width="695" height="400" alt="Top Langs"/>   
       </a>
     </td>
   </tr>
@@ -157,7 +157,7 @@ I'm a software developer passionate about creating innovative solutions that enh
   <tr>
     <td>
       <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-        <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Tabatskyi&theme=github_dark&hide_border=true&mode=daily&sections=total%2Ccurrent%2Clongest&stroke=67a5f8&dates=67a5f8&ring=67a5f8" width="495" height="200" alt="Streak Stats"/>
+        <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Tabatskyi&theme=github_dark&hide_border=true&mode=daily&sections=total%2Ccurrent%2Clongest&stroke=67a5f8&dates=67a5f8&ring=67a5f8" width="695" height="400" alt="Streak Stats"/>
       </a>
     </td>
   </tr>
@@ -165,7 +165,7 @@ I'm a software developer passionate about creating innovative solutions that enh
   <tr>
     <td>
       <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app?username=Tabatskyi&theme=darkhub&column=3&row=1&margin-w=1&margin-h=6&no-bg=false&no-frame=true" width="495" height="200" alt="Trophy Graph"/>
+        <img src="https://github-profile-trophy.vercel.app?username=Tabatskyi&theme=darkhub&column=3&row=2&margin-w=1&margin-h=6&no-bg=false&no-frame=true" width="695" height="400" alt="Trophy Graph"/>
       </a>
     </td>
   </tr>
