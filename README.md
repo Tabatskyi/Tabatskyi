@@ -147,12 +147,12 @@ I'm a software developer passionate about creating innovative solutions that enh
         <img src="https://github-readme-stats-git-main-tabatskyis-projects.vercel.app/api?username=Tabatskyi&count_private=true&hide_border=true&theme=github_dark&text_bold=true&show=reviews,prs_merged,prs_merged_percentage" width="450" height="250" alt="General Stats"/>
       </a><br><hr>
       <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-        <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Tabatskyi&theme=github_dark&hide_border=true&mode=daily&sections=total%2Ccurrent%2Clongest&stroke=67a5f8&dates=67a5f8&ring=67a5f8" width="450" height="250" alt="Streak Stats"/>
+        <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Tabatskyi&theme=github_dark&hide_border=true&mode=daily&sections=total%2Ccurrent%2Clongest&stroke=67a5f8&dates=67a5f8&ring=67a5f8" width="450" height="200" alt="Streak Stats"/>
       </a>
     </td>
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats-git-main-tabatskyis-projects.vercel.app/api/top-langs/?username=Tabatskyi&hide_border=true&layout=donut-vertical&theme=github_dark&langs_count=20&size_weight=0.5&count_weight=0.5&text_bold=true" width="300" height="500" alt="Top Langs" />  
+        <img src="https://github-readme-stats-git-main-tabatskyis-projects.vercel.app/api/top-langs/?username=Tabatskyi&hide_border=true&layout=donut-vertical&theme=github_dark&langs_count=20&size_weight=0.5&count_weight=0.5&text_bold=true" width="300" height="450" alt="Top Langs" />  
       </a>
     </td>
   </tr>
