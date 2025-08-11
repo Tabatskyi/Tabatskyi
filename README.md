@@ -44,7 +44,7 @@ I'm a software developer passionate about creating innovative solutions that enh
   <a href="https://www.w3schools.com/html/"><img src="https://cdn.simpleicons.org/html5/E34F26" height="40" width="40"  alt="html5 logo"  /></a>
   <img width="5" />   
   <img width="5" />
-  <a href="https://www.w3schools.com/css/"><img src="https://cdn.simpleicons.org/css3/1572B6" height="40" width="40"  alt="css3 logo"  /></a>
+  <a href="https://www.w3schools.com/css/"><img src="https://cdn.simpleicons.org/css/1572B6" height="40" width="40"  alt="css3 logo"  /></a>
   <img width="5" />   
   <img width="5" />
   <a href="https://www.gnu.org/software/bash/"><img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" width="40"  alt="bash logo"  /></a>
