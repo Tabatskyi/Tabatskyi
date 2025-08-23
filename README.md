@@ -41,25 +41,25 @@ I'm a software developer passionate about creating innovative solutions that enh
   <a href="https://www.typescriptlang.org/"><img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" width="40"  alt="typescript logo"  /></a>
   <img width="5" />   
   <img width="5" />
-  <a href="https://www.w3schools.com/html/"><img src="https://cdn.simpleicons.org/html5/E34F26" height="40" width="40"  alt="html5 logo"  /></a>
+  <a href="https://www.w3schools.com/html/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40"  alt="html5 logo"  /></a>
   <img width="5" />   
   <img width="5" />
-  <a href="https://www.w3schools.com/css/"><img src="https://cdn.simpleicons.org/css/1572B6" height="40" width="40"  alt="css3 logo"  /></a>
+  <a href="https://www.w3schools.com/css/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40"  alt="css3 logo"  /></a>
   <img width="5" />   
   <img width="5" />
-  <a href="https://www.gnu.org/software/bash/"><img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" width="40"  alt="bash logo"  /></a>
+  <a href="https://www.r-project.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" width="40"  alt="bash logo"  /></a>
   <img width="5" />   
   <img width="5" />
-  <a href="https://docs.microsoft.com/en-us/powershell/"><img src="https://skillicons.dev/icons?i=powershell" height="40" width="40"  alt="powershell logo"  /></a>
+  <a href="https://dotnet.microsoft.com/"><img src="https://cdn.simpleicons.org/dotnet/512BD4" height="40" width="40"  alt="dotnet logo"  /></a>
 </div>
 
 ###
 
 <div align="center">
-  <a href="https://dotnet.microsoft.com/"><img src="https://skillicons.dev/icons?i=dotnet" height="40" width="40"  alt="dotnet logo"  /></a>
+  <a href="https://learn.microsoft.com/en-us/ef/core"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/entityframeworkcore/entityframeworkcore-original.svg" height="40" width="40"  alt="ef core logo"  /></a>
   <img width="5" />   
   <img width="5" />
-  <a href="https://nodejs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="40"  alt="nodejs logo"  /></a>
+  <a href="https://dotnet.microsoft.com/en-us/apps/aspnet"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" width="40"  alt="aspnet logo"  /></a>
   <img width="5" />   
   <img width="5" />
   <a href="https://redis.io/"><img src="https://cdn.simpleicons.org/redis/DC382D" height="40" width="40"  alt="redis logo"  /></a>
@@ -68,35 +68,38 @@ I'm a software developer passionate about creating innovative solutions that enh
   <a href="https://www.postgresql.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="40"  alt="postgresql logo"  /></a>
   <img width="5" />   
   <img width="5" />
-  <a href="https://www.microsoft.com/sql-server/sql-server-downloads"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="40" width="40"  alt="sqlserver logo"  /></a>
+  <a href="https://www.microsoft.com/sql-server"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="40" width="40"  alt="sqlserver logo"  /></a>
   <img width="5" />   
   <img width="5" />
   <a href="https://www.mysql.com/"><img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" width="40"  alt="mysql logo"  /></a>
   <img width="5" />  
   <img width="5" />
-  <a href="https://www.docker.com/"><img src="https://cdn.simpleicons.org/docker/2496ED" height="40" width="40"  alt="docker logo"  /></a>
-  <img width="5" />  
-  <img width="5" />
-  <a href="https://www.terraform.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" width="40"  alt="terraform logo"  /></a>
-  <img width="5" />  
-  <img width="5" />
   <a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws" height="40" width="40"  alt="amazonwebservices logo"  /></a>
   <img width="5" />  
   <img width="5" />
-  <a href="https://kubernetes.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" height="40" width="40"  alt="kubernetes logo"  /></a>
+  <a href="https://www.terraform.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" width="40"  alt="terraform logo"  /></a>
   <img width="5" />  
   <img width="5" />
   <a href="https://prometheus.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" width="40"  alt="prometheus logo"  /></a>
   <img width="5" /> 
   <img width="5" />
   <a href="https://grafana.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" width="40"  alt="grafana logo"  /></a>
+  <img width="5" />  
+  <img width="5" />
+  <a href="https://www.jenkins.io/"><img src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="40" width="40"  /></a>
+  <img width="5" />  
+  <img width="5" />
+  <a href="https://kubernetes.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" height="40" width="40"  alt="kubernetes logo"  /></a>
 </div>
 
 ###
 
 <div align="center">
-  <a href="https://www.jenkins.io/"><img src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="40" width="40"  /></a>
+  <a href="https://www.docker.com/"><img src="https://cdn.simpleicons.org/docker/2496ED" height="40" width="40"  alt="docker logo"  /></a>
   <img width="5" />  
+  <img width="5" />
+  <a href="https://github.com/vovaskochko/KaguOS"><img src="https://github.com/vovaskochko/KaguOS/blob/main/kaguos_logo.png" height="40" width="40"  alt="kagu logo"  /></a>
+  <img width="5" /> 
   <img width="5" />
   <a href="https://www.linux.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="40"  alt="linux logo"  /></a>
   <img width="5" />  
@@ -115,9 +118,6 @@ I'm a software developer passionate about creating innovative solutions that enh
   <img width="5" />
   <a href="https://www.nuget.org/"><img src="https://cdn.simpleicons.org/nuget/004880" height="40" width="40"  alt="nuget logo"  /></a>
   <img width="5" />  
-  <img width="5" />
-  <a href="https://www.npmjs.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" width="40"  alt="npm logo"  /></a>
-  <img width="5" /> 
   <img width="5" />
   <a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="40"  alt="vscode logo"  /></a>
   <img width="5" />  
