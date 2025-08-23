@@ -65,9 +65,6 @@ I'm a software developer passionate about creating innovative solutions that enh
   <a href="https://dotnet.microsoft.com/en-us/apps/aspnet"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" width="40"  alt="aspnet logo"  /></a>
   <img width="5" />   
   <img width="5" />
-  <a href="https://redis.io/"><img src="https://cdn.simpleicons.org/redis/DC382D" height="40" width="40"  alt="redis logo"  /></a>
-  <img width="5" />  
-  <img width="5" />
   <a href="https://www.postgresql.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="40"  alt="postgresql logo"  /></a>
   <img width="5" />   
   <img width="5" />
@@ -75,6 +72,12 @@ I'm a software developer passionate about creating innovative solutions that enh
   <img width="5" />   
   <img width="5" />
   <a href="https://www.mysql.com/"><img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" width="40"  alt="mysql logo"  /></a>
+  <img width="5" />  
+  <img width="5" />
+  <a href="https://redis.io/"><img src="https://cdn.simpleicons.org/redis/DC382D" height="40" width="40"  alt="redis logo"  /></a>
+  <img width="5" />  
+  <img width="5" />
+  <a href="https://www.rabbitmq.com/"><img src="https://cdn.simpleicons.org/rabbitmq/FF6600" height="40" width="40"  alt="rabbitmq logo"  /></a>
   <img width="5" />  
   <img width="5" />
   <a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws" height="40" width="40"  alt="amazonwebservices logo"  /></a>
@@ -87,14 +90,14 @@ I'm a software developer passionate about creating innovative solutions that enh
   <img width="5" /> 
   <img width="5" />
   <a href="https://grafana.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" width="40"  alt="grafana logo"  /></a>
-  <img width="5" />  
-  <img width="5" />
-  <a href="https://www.jenkins.io/"><img src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="40" width="40"  /></a>
 </div>
 
 ###
 
 <div align="center">
+ <a href="https://www.jenkins.io/"><img src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="40" width="40"  /></a>
+  <img width="5" />  
+  <img width="5" />
   <a href="https://kubernetes.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" height="40" width="40"  alt="kubernetes logo"  /></a>
   <img width="5" />  
   <img width="5" />
@@ -114,9 +117,6 @@ I'm a software developer passionate about creating innovative solutions that enh
   <img width="5" /> 
   <img width="5" />
   <a href="https://about.gitlab.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" width="40"  alt="gitlab logo"  /></a>
-  <img width="5" />  
-  <img width="5" />
-  <a href="https://www.nuget.org/"><img src="https://cdn.simpleicons.org/nuget/004880" height="40" width="40"  alt="nuget logo"  /></a>
   <img width="5" />  
   <img width="5" />
   <a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="40"  alt="vscode logo"  /></a>
