@@ -33,6 +33,9 @@ I'm a software developer passionate about creating innovative solutions that enh
   <img width="5" />   
   <img width="5" />
   <a href="https://www.scala-lang.org/"><img src="https://cdn.simpleicons.org/scala/DC322F" height="40" width="40"  alt="scala logo"  /></a>
+  <img width="5" />   
+  <img width="5" />
+  <a href="https://www.r-project.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" width="40"  alt="bash logo"  /></a>
   <img width="5" />  
   <img width="5" />
   <a href="https://go.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" width="40"  alt="go logo"  /></a>
@@ -41,21 +44,21 @@ I'm a software developer passionate about creating innovative solutions that enh
   <a href="https://www.typescriptlang.org/"><img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" width="40"  alt="typescript logo"  /></a>
   <img width="5" />   
   <img width="5" />
+  <a href="https://www.w3schools.com/Js/"><img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" width="40"  alt="javascript logo"  /></a>
+  <img width="5" />   
+  <img width="5" />
   <a href="https://www.w3schools.com/html/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40"  alt="html5 logo"  /></a>
   <img width="5" />   
   <img width="5" />
   <a href="https://www.w3schools.com/css/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40"  alt="css3 logo"  /></a>
-  <img width="5" />   
-  <img width="5" />
-  <a href="https://www.r-project.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" width="40"  alt="bash logo"  /></a>
-  <img width="5" />   
-  <img width="5" />
-  <a href="https://dotnet.microsoft.com/"><img src="https://cdn.simpleicons.org/dotnet/512BD4" height="40" width="40"  alt="dotnet logo"  /></a>
 </div>
 
 ###
 
 <div align="center">
+  <a href="https://dotnet.microsoft.com/"><img src="https://cdn.simpleicons.org/dotnet/512BD4" height="40" width="40"  alt="dotnet logo"  /></a>
+  <img width="5" />   
+  <img width="5" />
   <a href="https://learn.microsoft.com/en-us/ef/core"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/entityframeworkcore/entityframeworkcore-original.svg" height="40" width="40"  alt="ef core logo"  /></a>
   <img width="5" />   
   <img width="5" />
@@ -87,14 +90,14 @@ I'm a software developer passionate about creating innovative solutions that enh
   <img width="5" />  
   <img width="5" />
   <a href="https://www.jenkins.io/"><img src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="40" width="40"  /></a>
-  <img width="5" />  
-  <img width="5" />
-  <a href="https://kubernetes.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" height="40" width="40"  alt="kubernetes logo"  /></a>
 </div>
 
 ###
 
 <div align="center">
+  <a href="https://kubernetes.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" height="40" width="40"  alt="kubernetes logo"  /></a>
+  <img width="5" />  
+  <img width="5" />
   <a href="https://www.docker.com/"><img src="https://cdn.simpleicons.org/docker/2496ED" height="40" width="40"  alt="docker logo"  /></a>
   <img width="5" />  
   <img width="5" />
@@ -112,9 +115,6 @@ I'm a software developer passionate about creating innovative solutions that enh
   <img width="5" />
   <a href="https://about.gitlab.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" width="40"  alt="gitlab logo"  /></a>
   <img width="5" />  
-  <img width="5" />
-  <a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40"  alt="git logo"  /></a>
-  <img width="5" /> 
   <img width="5" />
   <a href="https://www.nuget.org/"><img src="https://cdn.simpleicons.org/nuget/004880" height="40" width="40"  alt="nuget logo"  /></a>
   <img width="5" />  
