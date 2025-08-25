@@ -152,7 +152,7 @@ I'm a software developer passionate about creating innovative solutions that enh
   <a href="https://www.debian.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" width="40"  alt="debian logo"  /></a>
   <img width="5" />  
   <img width="5" />
-  <a href="https://developer.apple.com/macos/"><img src="/icons/macos.png" height="40" width="40"  alt="macos logo"  /></a>
+  <a href="https://developer.apple.com/macos/"><img src="/icons/apple.png" height="40" width="40"  alt="macos logo"  /></a>
   <img width="5" />  
   <img width="5" />
   <a href="https://www.microsoft.com/windows/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" height="40" width="40"  alt="windows11 logo"  /></a>
