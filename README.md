@@ -5,9 +5,6 @@
 I'm a software developer passionate about creating innovative solutions that enhance people's lives. I started my journey with some Python courses and Pascal in High School. Currently, I'm studying at [KSE University](https://university.kse.ua/en) in the “Software Engineering and Business Analysis” program.
 
 #### Contact me:
-<a href="https://github.com/Tabatskyi" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
 <a href="https://linkedin.com/in/mark-tabatskyi" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a> 
