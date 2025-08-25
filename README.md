@@ -23,7 +23,7 @@ I'm a software developer passionate about creating innovative solutions that enh
   <a href="https://cplusplus.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="40"  alt="cplusplus logo"  /></a>
   <img width="5" />   
   <img width="5" />
-  <a href="####################################################"><img src="/icons/holy-c.png" height="40" alt="holyc logo"  /></a>
+  <a href="https://github.com/HolyC-Lang/HolyC"><img src="/icons/holy-c.png" height="40" alt="holyc logo"  /></a>
   <img width="5" />   
   <img width="7.5" />
   <a href="https://www.cprogramming.com/"><img src="/icons/c.png" height="40" alt="c logo"  /></a>
@@ -71,7 +71,7 @@ I'm a software developer passionate about creating innovative solutions that enh
   <a href="https://www.postgresql.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="40"  alt="postgresql logo"  /></a>
   <img width="5" />   
   <img width="5" />
-  <a href="###############################"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" width="40"  alt="sqlite logo"  /></a>
+  <a href="https://sqlite.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" width="40"  alt="sqlite logo"  /></a>
   <img width="5" />  
   <img width="5" />
   <a href="https://www.microsoft.com/sql-server"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="40" width="40"  alt="sqlserver logo"  /></a>
@@ -89,7 +89,7 @@ I'm a software developer passionate about creating innovative solutions that enh
   <a href="https://www.docker.com/"><img src="https://cdn.simpleicons.org/docker/2496ED" height="40" width="40"  alt="docker logo"  /></a>
   <img width="5" />  
   <img width="5" />
-  <a href="#########################"><img src="/icons/docker-compose.png" height="40" width="40"  alt="docker-compose logo"  /></a>
+  <a href="https://docs.docker.com/compose/"><img src="/icons/docker-compose.png" height="40" width="40"  alt="docker-compose logo"  /></a>
 </div>
 
 ###
@@ -116,25 +116,25 @@ I'm a software developer passionate about creating innovative solutions that enh
   <a href="https://prometheus.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" width="40"  alt="prometheus logo"  /></a>
   <img width="5" />  
   <img width="5" />
-  <a href="###############################"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" height="40" width="40"  alt="helm logo"  /></a>
+  <a href="https://helm.sh/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" height="40" width="40"  alt="helm logo"  /></a>
   <img width="5" />  
   <img width="5" />
-  <a href="###############################"><img src="/icons/jaeger.svg" height="40" width="40"  alt="jeager logo"  /></a>
+  <a href="https://www.jaegertracing.io/"><img src="/icons/jaeger.svg" height="40" width="40"  alt="jaeger logo"  /></a>
   <img width="5" />  
   <img width="5" />
-  <a href="###############################"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kibana/kibana-original.svg" height="40" width="40"  alt="kibana logo"  /></a>
+  <a href="https://www.elastic.co/docs/explore-analyze"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kibana/kibana-original.svg" height="40" width="40"  alt="kibana logo"  /></a>
   <img width="5" />  
   <img width="5" />
-  <a href="###############################"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opentelemetry/opentelemetry-original.svg" height="40" width="40"  alt="opentelemetry logo"  /></a>
+  <a href="https://opentelemetry.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opentelemetry/opentelemetry-original.svg" height="40" width="40"  alt="opentelemetry logo"  /></a>
   <img width="5" />  
   <img width="5" />
-  <a href="###############################"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/consul/consul-original.svg" height="40" width="40"  alt="consul logo"  /></a>
+  <a href="https://developer.hashicorp.com/consul"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/consul/consul-original.svg" height="40" width="40"  alt="consul logo"  /></a>
 </div>
 
 ###
 
 <div align="center">
-  <a href="###############################"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="40" width="40"  alt="swagger logo"  /></a>
+  <a href="https://swagger.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="40" width="40"  alt="swagger logo"  /></a>
   <img width="5" />  
   <img width="5" />
   <a href="https://github.com/features/actions/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="40" width="40"  alt="githubactions logo"  /></a>
@@ -149,16 +149,16 @@ I'm a software developer passionate about creating innovative solutions that enh
   <a href="https://github.com/vovaskochko/KaguOS"><img src="icons/kaguos-bird.png" height="40" width="40"  alt="kagu logo"  /></a>
   <img width="5" /> 
   <img width="5" />
-  <a href="############################"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" height="40" width="40"  alt="archlinux logo"  /></a>
+  <a href="https://archlinux.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" height="40" width="40"  alt="archlinux logo"  /></a>
   <img width="5" />  
   <img width="5" />
-  <a href="############################"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" width="40"  alt="debian logo"  /></a>
+  <a href="https://www.debian.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" width="40"  alt="debian logo"  /></a>
   <img width="5" />  
   <img width="5" />
-  <a href="############################"><img src="/icons/macos.png" height="40" width="40"  alt="macos logo"  /></a>
+  <a href="https://developer.apple.com/macos/"><img src="/icons/macos.png" height="40" width="40"  alt="macos logo"  /></a>
   <img width="5" />  
   <img width="5" />
-  <a href="############################"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" height="40" width="40"  alt="windows11 logo"  /></a>
+  <a href="https://www.microsoft.com/windows/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" height="40" width="40"  alt="windows11 logo"  /></a>
   <img width="5" />  
   <img width="5" />
   <a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="40"  alt="vscode logo"  /></a>
