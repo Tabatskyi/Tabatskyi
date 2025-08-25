@@ -98,6 +98,9 @@ I'm a software developer passionate about creating innovative solutions that enh
   <a href="https://kubernetes.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" height="40" width="40"  alt="kubernetes logo"  /></a>
   <img width="5" />  
   <img width="5" />
+  <a href="https://helm.sh/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" height="40" width="40"  alt="helm logo"  /></a>
+  <img width="5" />  
+  <img width="5" />
   <a href="https://aws.amazon.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" width="40"  alt="amazonwebservices logo"  /></a>
   <img width="5" />  
   <img width="5" />
@@ -114,9 +117,6 @@ I'm a software developer passionate about creating innovative solutions that enh
   <img width="5" /> 
   <img width="5" />
   <a href="https://prometheus.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" width="40"  alt="prometheus logo"  /></a>
-  <img width="5" />  
-  <img width="5" />
-  <a href="https://helm.sh/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" height="40" width="40"  alt="helm logo"  /></a>
   <img width="5" />  
   <img width="5" />
   <a href="https://www.jaegertracing.io/"><img src="/icons/jaeger.svg" height="40" width="40"  alt="jaeger logo"  /></a>
