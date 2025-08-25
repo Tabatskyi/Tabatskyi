@@ -71,10 +71,10 @@ I'm a software developer passionate about creating innovative solutions that enh
   <a href="https://sqlite.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" width="40"  alt="sqlite logo"  /></a>
   <img width="5" />  
   <img width="5" />
-  <a href="https://www.microsoft.com/sql-server"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="40" width="40"  alt="sqlserver logo"  /></a>
+  <a href="https://www.microsoft.com/sql-server"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="40" width="40"  alt="sqlserver logo"  /></a>
   <img width="5" />   
   <img width="5" />
-  <a href="https://www.mysql.com/"><img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" width="40"  alt="mysql logo"  /></a>
+  <a href="https://www.mysql.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="40" width="40"  alt="mysql logo"  /></a>
   <img width="5" />  
   <img width="5" />
   <a href="https://redis.io/"><img src="https://cdn.simpleicons.org/redis/DC382D" height="40" width="40"  alt="redis logo"  /></a>
