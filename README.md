@@ -22,9 +22,9 @@ I'm a software developer passionate about creating innovative solutions that enh
   <img width="5" />
   <a href="https://cplusplus.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="40"  alt="cplusplus logo"  /></a>
   <img width="5" />   
-  <img width="5" />
-  <a href="https://www.cprogramming.com/"><img src="https://skillicons.dev/icons?i=c" height="40" width="40"  alt="c logo"  /></a>
-  <img width="5" />   
+  <img width="7.5" />
+  <a href="https://www.cprogramming.com/"><img src="/icons/c.png" height="40" alt="c logo"  /></a>
+  <img width="7.5" />   
   <img width="5" />
   <a href="https://developer.apple.com/swift/"><img src="https://skillicons.dev/icons?i=swift" height="40" width="40"  alt="swift logo"  /></a>
   <img width="5" />
@@ -104,7 +104,7 @@ I'm a software developer passionate about creating innovative solutions that enh
   <a href="https://www.docker.com/"><img src="https://cdn.simpleicons.org/docker/2496ED" height="40" width="40"  alt="docker logo"  /></a>
   <img width="5" />  
   <img width="5" />
-  <a href="https://github.com/vovaskochko/KaguOS"><img src="https://github.com/vovaskochko/KaguOS/blob/main/kaguos_logo.png" height="40" width="40"  alt="kagu logo"  /></a>
+  <a href="https://github.com/vovaskochko/KaguOS"><img src="/icons/kaguos-original.png" height="40" width="40"  alt="kagu logo"  /></a>
   <img width="5" /> 
   <img width="5" />
   <a href="https://www.linux.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="40"  alt="linux logo"  /></a>
