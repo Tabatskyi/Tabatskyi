@@ -17,10 +17,10 @@ I'm a software developer passionate about creating innovative solutions that enh
 ## My Skill Set  
 
 <div align="center">
-  <a href="https://dotnet.microsoft.com/languages/csharp/"><img src="https://skillicons.dev/icons?i=cs" height="40" width="40"  alt="csharp logo"  /></a>
+  <a href="https://dotnet.microsoft.com/languages/csharp/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="40"  alt="csharp logo"  /></a>
   <img width="5" />   
   <img width="5" />
-  <a href="https://cplusplus.com/"><img src="https://skillicons.dev/icons?i=cpp" height="40" width="40"  alt="cplusplus logo"  /></a>
+  <a href="https://cplusplus.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="40"  alt="cplusplus logo"  /></a>
   <img width="5" />   
   <img width="5" />
   <a href="https://www.cprogramming.com/"><img src="https://skillicons.dev/icons?i=c" height="40" width="40"  alt="c logo"  /></a>
