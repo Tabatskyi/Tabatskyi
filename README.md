@@ -20,7 +20,7 @@ I'm a software developer passionate about creating innovative solutions that enh
   <a href="https://cplusplus.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="40"  alt="cplusplus logo"  /></a>
   <img width="5" />   
   <img width="7.5" />
-  <a href="https://github.com/HolyC-Lang/HolyC"><img src="/icons/holy-c.png" height="40" alt="holyc logo"  /></a>
+  <a href="https://templeos.org/"><img src="/icons/holy-c.png" height="40" alt="holyc logo"  /></a>
   <img width="7.5" />   
   <img width="7.5" />
   <a href="https://www.cprogramming.com/"><img src="/icons/c.png" height="40" alt="c logo"  /></a>
