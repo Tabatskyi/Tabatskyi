@@ -193,7 +193,7 @@ I'm a software developer passionate about creating innovative solutions that enh
   </tr>
 </table>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats-git-main-tabatskyis-projects.vercel.app/api/top-langs/?username=Tabatskyi&hide_border=true&layout=donut-vertical&theme=github_dark&langs_count=20&size_weight=0.5&count_weight=0.5&text_bold=true" width="300" height="450" alt="Top Langs" />  
+        <img src="https://github-readme-stats-git-main-tabatskyis-projects.vercel.app/api/top-langs/?username=Tabatskyi&hide_border=true&layout=donut-vertical&theme=github_dark&langs_count=20&size_weight=0.5&count_weight=0.5&text_bold=true&exlude_repo=github-readme-stats" width="300" height="450" alt="Top Langs" />  
       </a>
   </tr>
   <tr></tr>
