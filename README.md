@@ -2,7 +2,7 @@
 
 ### My Bio:
 
-I'm a software developer passionate about creating innovative solutions that enhance people's lives. I started my journey with some Python courses and Pascal in High School. Currently, I'm studying at [KSE University](https://university.kse.ua/en) in the “Software Engineering and Business Analysis” program.
+I'm a software developer passionate about creating innovative solutions that enhance people's lives. I started my journey with some Python courses and Pascal in High School. Currently, I'm studying at [KSE University](https://university.kse.ua/en) in the “Software Engineering and Business Analysis” program. My main field is backend build with .NET Framework. I also have strong expirience in DevOps and C/C++. Familiar with ML, JS/TS, Python, Scala, R, AWS and Golang.
 
 #### Contact me:
 <a href="https://linkedin.com/in/mark-tabatskyi" target="_blank">
