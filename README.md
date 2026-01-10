@@ -2,7 +2,7 @@
 
 ### My Bio:
 
-I'm a software developer passionate about creating innovative solutions that enhance people's lives. I started my journey with some Python courses and Pascal in High School. Currently, I'm studying at [KSE University](https://university.kse.ua/en) in the “Software Engineering and Business Analysis” program. My main field is backend build with .NET Framework. I also have strong expirience in DevOps and C/C++. Familiar with Machine Learning, JS/TS, Python, Scala, R, AWS and Golang.<br>
+I'm a software developer passionate about creating innovative solutions that enhance people's lives. I started my journey with some Python courses and Pascal in High School. Currently, I'm studying at [KSE University](https://university.kse.ua/en) in the “Software Engineering and Business Analysis” program. My main field is backend build with .NET Framework. I also have strong expirience with Python, DevOps and C/C++. Familiar with Machine Learning, JS/TS, Scala, R, AWS and Golang.<br>
 <a href="https://github.com/vovaskochko/KaguOS">KaguOS</a> enjoyer.
 
 #### Contact me:
