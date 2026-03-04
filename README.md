@@ -179,8 +179,8 @@ I'm a software developer passionate about creating innovative solutions that enh
 <table align="left">
     <tr>
       <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats-git-main-tabatskyis-projects.vercel.app/api?username=Tabatskyi&count_private=true&hide_border=true&theme=github_dark&text_bold=true&show=reviews,prs_merged,prs_merged_percentage" width="450" height="250" alt="General Stats"/>
+      <a href="https://github.com/brunobritodev/awesome-github-stats">
+        <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Tabatskyi?cardType=level&theme=github-dark&fontFamily=&preferLogin=false&Background=FFFFFF00&Border=FFFFFF00&Ring=539BF5&Text=FFFFFF" width="450" height="250" alt="General Stats"/>
       </a>
         </td>
     </tr>
