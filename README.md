@@ -180,7 +180,7 @@ I'm a software developer passionate about creating innovative solutions that enh
     <tr>
       <td>
       <a href="https://github.com/brunobritodev/awesome-github-stats">
-        <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Tabatskyi?cardType=level&theme=github-dark&fontFamily=&preferLogin=false&Background=FFFFFF00&Border=FFFFFF00&Ring=539BF5&Text=FFFFFF" width="450" height="250" alt="General Stats"/>
+        <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Tabatskyi?cardType=level&theme=github-dark&fontFamily=&preferLogin=false&Background=FFFFFF00&Border=FFFFFF00&Ring=539BF5&Text=FFFFFF" height="250" alt="General Stats"/>
       </a>
         </td>
     </tr>
@@ -188,13 +188,13 @@ I'm a software developer passionate about creating innovative solutions that enh
     <tr>
       <td>
       <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-        <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Tabatskyi&theme=github_dark&hide_border=true&mode=daily&sections=total%2Ccurrent%2Clongest&stroke=67a5f8&dates=67a5f8&ring=67a5f8" width="450" height="150" alt="Streak Stats"/>
+        <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Tabatskyi&theme=github_dark&hide_border=true&mode=daily&sections=total%2Ccurrent%2Clongest&stroke=67a5f8&dates=67a5f8&ring=67a5f8" height="150" alt="Streak Stats"/>
       </a>
     </td>
   </tr>
 </table>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats-git-main-tabatskyis-projects.vercel.app/api/top-langs/?username=Tabatskyi&hide_border=true&layout=donut-vertical&theme=github_dark&langs_count=25&size_weight=0.5&count_weight=0.5&text_bold=true&hide=javascript" width="300" height="450" alt="Top Langs" />  
+        <img src="https://github-readme-stats-git-main-tabatskyis-projects.vercel.app/api/top-langs/?username=Tabatskyi&hide_border=true&layout=donut-vertical&theme=github_dark&langs_count=25&size_weight=0.5&count_weight=0.5&text_bold=true&hide=javascript" height="450" alt="Top Langs" />  
       </a>
   </tr>
   <tr></tr>
