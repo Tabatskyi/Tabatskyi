@@ -15,157 +15,157 @@ I'm a software developer passionate about creating innovative solutions that enh
 ## My Skill Set  
 
 <div align="center">
-  <a href="https://dotnet.microsoft.com/languages/csharp/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="40"  alt="csharp logo"  /></a>
+  <a href="https://dotnet.microsoft.com/languages/csharp/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40"   alt="csharp logo"  /></a>
   <img width="5" />   
   <img width="5" />
-  <a href="https://cplusplus.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="40"  alt="cplusplus logo"  /></a>
+  <a href="https://cplusplus.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"   alt="cplusplus logo"  /></a>
   <img width="5" />   
   <img width="7.5" />
-  <a href="https://templeos.org/"><img src="/icons/holy-c.png" height="40" alt="holyc logo"  /></a>
+  <a href="https://templeos.org/"><img src="icons/holy-c.png" height="40" alt="holyc logo"  /></a>
   <img width="7.5" />   
   <img width="7.5" />
-  <a href="https://www.cprogramming.com/"><img src="/icons/c.png" height="40" alt="c logo"  /></a>
+  <a href="https://www.cprogramming.com/"><img src="icons/c.png" height="40" alt="c logo"  /></a>
   <img width="7.5" />   
   <img width="5" />
-  <a href="https://developer.apple.com/swift/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" width="40"  alt="swift logo"  /></a>
+  <a href="https://developer.apple.com/swift/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40"   alt="swift logo"  /></a>
   <img width="5" />
   <img width="5" />
-  <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40"  alt="python logo"  /></a>
+  <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"   alt="python logo"  /></a>
   <img width="5" />   
   <img width="5" />
-  <a href="https://www.scala-lang.org/"><img src="https://cdn.simpleicons.org/scala/DC322F" height="40" width="40"  alt="scala logo"  /></a>
+  <a href="https://www.scala-lang.org/"><img src="https://cdn.simpleicons.org/scala/DC322F" height="40"   alt="scala logo"  /></a>
   <img width="5" />   
   <img width="5" />
-  <a href="https://www.r-project.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" width="40"  alt="bash logo"  /></a>
+  <a href="https://www.r-project.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40"   alt="bash logo"  /></a>
   <img width="5" />  
   <img width="5" />
-  <a href="https://go.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" width="40"  alt="go logo"  /></a>
+  <a href="https://go.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40"   alt="go logo"  /></a>
   <img width="5" />   
   <img width="5" />
-  <a href="https://dotnet.microsoft.com/"><img src="https://cdn.simpleicons.org/dotnet/512BD4" height="40" width="40"  alt="dotnet logo"  /></a>
+  <a href="https://dotnet.microsoft.com/"><img src="https://cdn.simpleicons.org/dotnet/512BD4" height="40"   alt="dotnet logo"  /></a>
   <img width="5" />   
   <img width="5" />
-  <a href="https://learn.microsoft.com/en-us/ef/core"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/entityframeworkcore/entityframeworkcore-original.svg" height="40" width="40"  alt="ef core logo"  /></a>
+  <a href="https://learn.microsoft.com/en-us/ef/core"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/entityframeworkcore/entityframeworkcore-original.svg" height="40"   alt="ef core logo"  /></a>
   <img width="5" />   
   <img width="5" />
-  <a href="https://dotnet.microsoft.com/en-us/apps/aspnet"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" width="40"  alt="aspnet logo"  /></a>
+  <a href="https://dotnet.microsoft.com/en-us/apps/aspnet"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40"   alt="aspnet logo"  /></a>
 </div>
 
 ###
 
 <div align="center">
-  <a href="https://www.typescriptlang.org/"><img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" width="40"  alt="typescript logo"  /></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://cdn.simpleicons.org/typescript/3178C6" height="40"   alt="typescript logo"  /></a>
   <img width="5" />   
   <img width="5" />
-  <a href="https://www.w3schools.com/Js/"><img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" width="40"  alt="javascript logo"  /></a>
+  <a href="https://www.w3schools.com/Js/"><img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40"   alt="javascript logo"  /></a>
   <img width="5" />   
   <img width="5" />
-  <a href="https://www.w3schools.com/html/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40"  alt="html5 logo"  /></a>
+  <a href="https://www.w3schools.com/html/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"   alt="html5 logo"  /></a>
   <img width="5" />   
   <img width="5" />
-  <a href="https://www.w3schools.com/css/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40"  alt="css3 logo"  /></a>
+  <a href="https://www.w3schools.com/css/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"   alt="css3 logo"  /></a>
   <img width="5" />   
   <img width="5" />
-  <a href="https://www.postgresql.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="40"  alt="postgresql logo"  /></a>
+  <a href="https://www.postgresql.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"   alt="postgresql logo"  /></a>
   <img width="5" />   
   <img width="5" />
-  <a href="https://sqlite.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" width="40"  alt="sqlite logo"  /></a>
+  <a href="https://sqlite.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40"   alt="sqlite logo"  /></a>
   <img width="5" />  
   <img width="5" />
-  <a href="https://www.microsoft.com/sql-server"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="40" width="40"  alt="sqlserver logo"  /></a>
+  <a href="https://www.microsoft.com/sql-server"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="40"   alt="sqlserver logo"  /></a>
   <img width="5" />   
   <img width="5" />
-  <a href="https://www.mysql.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="40" width="40"  alt="mysql logo"  /></a>
+  <a href="https://www.mysql.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="40"   alt="mysql logo"  /></a>
   <img width="5" />  
   <img width="5" />
-  <a href="https://redis.io/"><img src="https://cdn.simpleicons.org/redis/DC382D" height="40" width="40"  alt="redis logo"  /></a>
+  <a href="https://redis.io/"><img src="https://cdn.simpleicons.org/redis/DC382D" height="40"   alt="redis logo"  /></a>
   <img width="5" />  
   <img width="5" />
-  <a href="https://www.rabbitmq.com/"><img src="https://cdn.simpleicons.org/rabbitmq/FF6600" height="40" width="40"  alt="rabbitmq logo"  /></a>
+  <a href="https://www.rabbitmq.com/"><img src="https://cdn.simpleicons.org/rabbitmq/FF6600" height="40"   alt="rabbitmq logo"  /></a>
   <img width="5" />  
   <img width="5" />
-  <a href="https://www.docker.com/"><img src="https://cdn.simpleicons.org/docker/2496ED" height="40" width="40"  alt="docker logo"  /></a>
+  <a href="https://www.docker.com/"><img src="https://cdn.simpleicons.org/docker/2496ED" height="40"   alt="docker logo"  /></a>
   <img width="5" />  
   <img width="5" />
-  <a href="https://docs.docker.com/compose/"><img src="/icons/docker-compose.png" height="40" width="40"  alt="docker-compose logo"  /></a>
+  <a href="https://docs.docker.com/compose/"><img src="icons/docker-compose.png" height="40" alt="docker-compose logo"  /></a>
 </div>
 
 ###
 
 <div align="center">
-  <a href="https://kubernetes.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" height="40" width="40"  alt="kubernetes logo"  /></a>
+  <a href="https://kubernetes.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" height="40"   alt="kubernetes logo"  /></a>
   <img width="5" />  
   <img width="5" />
-  <a href="https://helm.sh/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" height="40" width="40"  alt="helm logo"  /></a>
+  <a href="https://helm.sh/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" height="40"   alt="helm logo"  /></a>
   <img width="5" />  
   <img width="5" />
-  <a href="https://aws.amazon.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" width="40"  alt="amazonwebservices logo"  /></a>
+  <a href="https://aws.amazon.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40"   alt="amazonwebservices logo"  /></a>
   <img width="5" />  
   <img width="5" />
-  <a href="https://www.terraform.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" width="40"  alt="terraform logo"  /></a>
+  <a href="https://www.terraform.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40"   alt="terraform logo"  /></a>
   <img width="5" />  
   <img width="5" />
-  <a href="https://www.nginx.com/"><img src="https://cdn.simpleicons.org/nginx/009639" height="40" width="40"  alt="nginx logo"  /></a>
+  <a href="https://www.nginx.com/"><img src="https://cdn.simpleicons.org/nginx/009639" height="40"   alt="nginx logo"  /></a>
   <img width="5" />  
   <img width="5" />
-  <a href="https://www.jenkins.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" height="40" width="40"  /></a>
+  <a href="https://www.jenkins.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" height="40"   /></a>
   <img width="5" />  
   <img width="5" />
-  <a href="https://grafana.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" width="40"  alt="grafana logo"  /></a>
+  <a href="https://grafana.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40"   alt="grafana logo"  /></a>
   <img width="5" /> 
   <img width="5" />
-  <a href="https://prometheus.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" width="40"  alt="prometheus logo"  /></a>
+  <a href="https://prometheus.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40"   alt="prometheus logo"  /></a>
   <img width="5" />  
   <img width="5" />
-  <a href="https://www.jaegertracing.io/"><img src="/icons/jaeger.svg" height="40" width="40"  alt="jaeger logo"  /></a>
+  <a href="https://www.jaegertracing.io/"><img src="icons/jaeger.svg" height="40" alt="jaeger logo"  /></a>
   <img width="5" />  
   <img width="5" />
-  <a href="https://www.elastic.co/docs/explore-analyze"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kibana/kibana-original.svg" height="40" width="40"  alt="kibana logo"  /></a>
+  <a href="https://www.elastic.co/docs/explore-analyze"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kibana/kibana-original.svg" height="40"   alt="kibana logo"  /></a>
   <img width="5" />  
   <img width="5" />
-  <a href="https://opentelemetry.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opentelemetry/opentelemetry-original.svg" height="40" width="40"  alt="opentelemetry logo"  /></a>
+  <a href="https://opentelemetry.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opentelemetry/opentelemetry-original.svg" height="40"   alt="opentelemetry logo"  /></a>
   <img width="5" />  
   <img width="5" />
-  <a href="https://developer.hashicorp.com/consul"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/consul/consul-original.svg" height="40" width="40"  alt="consul logo"  /></a>
+  <a href="https://developer.hashicorp.com/consul"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/consul/consul-original.svg" height="40"   alt="consul logo"  /></a>
 </div>
 
 ###
 
 <div align="center">
-  <a href="https://swagger.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="40" width="40"  alt="swagger logo"  /></a>
+  <a href="https://swagger.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="40" alt="swagger logo"/></a>
   <img width="5" />  
   <img width="5" />
-  <a href="https://github.com/features/actions/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="40" width="40"  alt="githubactions logo"  /></a>
+  <a href="https://github.com/features/actions/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="40"   alt="githubactions logo"  /></a>
   <img width="5" /> 
   <img width="5" />
-  <a href="https://about.gitlab.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" width="40"  alt="gitlab logo"  /></a>
+  <a href="https://about.gitlab.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"/></a>
   <img width="5" />  
   <img width="5" />
-  <a href="https://www.latex-project.org/"><img src="https://skillicons.dev/icons?i=latex" height="40" width="40"  alt="latex logo"  /></a>
+  <a href="https://www.latex-project.org/"><img src="https://skillicons.dev/icons?i=latex" height="40" alt="latex logo"  /></a>
   <img width="5" />  
   <img width="5" />
-  <a href="https://github.com/vovaskochko/KaguOS"><img src="icons/kaguos-bird.png" height="40" width="40"  alt="kagu logo"  /></a>
+  <a href="https://github.com/vovaskochko/KaguOS"><img src="icons/kaguos-bird.png" height="40"   alt="kagu logo"  /></a>
   <img width="5" /> 
   <img width="5" />
-  <a href="https://archlinux.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" height="40" width="40"  alt="archlinux logo"  /></a>
+  <a href="https://archlinux.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" height="40" alt="archlinux logo"  /></a>
   <img width="5" />  
   <img width="5" />
-  <a href="https://www.debian.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" width="40"  alt="debian logo"  /></a>
+  <a href="https://www.debian.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="debian logo"  /></a>
   <img width="5" />  
   <img width="7.5" />
-  <a href="https://developer.apple.com/macos/"><img src="/icons/apple.png" height="40"  alt="macos logo"  /></a>
+  <a href="https://developer.apple.com/macos/"><img src="icons/apple.png" height="40" alt="macos logo"  /></a>
   <img width="7.5" />  
   <img width="5" />
-  <a href="https://www.microsoft.com/windows/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" height="40" width="40"  alt="windows11 logo"  /></a>
+  <a href="https://www.microsoft.com/windows/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" height="40"   alt="windows11 logo"  /></a>
   <img width="5" />  
   <img width="5" />
-  <a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="40"  alt="vscode logo"  /></a>
+  <a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"   alt="vscode logo"  /></a>
   <img width="5" />  
   <img width="5" />
-  <a href="https://visualstudio.microsoft.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" height="40" width="40"  alt="visualstudio logo"  /></a>
+  <a href="https://visualstudio.microsoft.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" height="40"   alt="visualstudio logo"  /></a>
   <img width="5" />  
   <img width="5" />
-  <a href="https://developer.apple.com/xcode/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="40" width="40"  alt="xcode logo"  /></a>
+  <a href="https://developer.apple.com/xcode/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="40" alt="xcode logo"  /></a>
 </div>
 
 <br/>  
