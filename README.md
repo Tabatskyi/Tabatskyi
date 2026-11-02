@@ -99,7 +99,7 @@ I'm a software developer passionate about creating innovative solutions that enh
   <a href="https://helm.sh/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" height="40"   alt="helm logo"  /></a>
   <img width="5" />  
   <img width="5" />
-  <a href="https://aws.amazon.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40"   alt="amazonwebservices logo"  /></a>
+  <a href="https://aws.amazon.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain.svg" height="40"   alt="amazonwebservices logo"  /></a>
   <img width="5" />  
   <img width="5" />
   <a href="https://www.terraform.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40"   alt="terraform logo"  /></a>
